@@ -37,7 +37,7 @@ objectpathlist.toObject(PATHLIST); // to convert pathlist (back) to object
 ```
 
 example pathlist from test.json:
-```JSON
+```JavaScript
 { 
     one: 1,
     two: 2,
